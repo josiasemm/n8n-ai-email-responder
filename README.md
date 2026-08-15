@@ -4,7 +4,7 @@ Flujo de automatización desarrollado en **n8n** que procesa mensajes de contact
 
 ## 🧩 Diagrama del Flujo
 
-![Diagrama de n8n](./diagrama.png)
+![Diagrama de n8n](./Diagrama.png)
 
 ## 🛠️ Tecnologías y Nodos
 
